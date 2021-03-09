@@ -1,0 +1,14 @@
+body {
+    background-color: lightskyblue;
+}
+
+#table-border {
+    border: black solid 5px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
