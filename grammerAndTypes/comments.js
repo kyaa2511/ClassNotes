@@ -19,3 +19,9 @@ multi
 line
 comment
 */
+
+//In the following line of code, what data type is the value assigned to list:
+
+ 
+
+//let list = [ 'item1' , 'item2' , 'item3' ]
